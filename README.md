@@ -107,6 +107,7 @@ uvicorn main:app
 
 Available genres:
 
+
 - Science Fiction
 - Fantasy
 - Horror
